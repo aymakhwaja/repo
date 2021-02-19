@@ -1,5 +1,4 @@
 # repo
 
 
-Introduction to the Tools of the Trade
-CS 1501
+Introduction to the Tools of the Trade #CS1501
